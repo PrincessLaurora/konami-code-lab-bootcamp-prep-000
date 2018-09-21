@@ -15,8 +15,8 @@ function init () {
 function triggerKeyDown(key) {
 const main = document.body;
 main.addEventListener('keydown', function(event) {
-  const key = e.key;
-  let index = 0
+  const key = event.key;
+  let index = 0;
  
   if (key === codes[index]) {
     index++;
