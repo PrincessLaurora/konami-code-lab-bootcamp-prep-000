@@ -11,10 +11,12 @@ const codes = [
   "a"
 ];
 
+function init () {
 function triggerKeyDown(key) {
 const main = document.body('main')
- 
 main.addEventListener('keydown', function(event) {
+  
+  
   alert('Bravo')
 
 
