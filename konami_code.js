@@ -11,7 +11,7 @@ const codes = [
   "a"
 ];
 
-function 
+function triggerKeyDown(key) {
 
 init() {
 
