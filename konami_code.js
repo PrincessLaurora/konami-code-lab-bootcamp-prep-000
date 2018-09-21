@@ -28,6 +28,7 @@ main.addEventListener('keydown', function(event) {
     }
   } else {
   index = 0
- 
-
-
+  }
+} );
+}
+}
