@@ -15,7 +15,7 @@ function init () {
 function triggerKeyDown(key) {
 const main = document.body('main')
 main.addEventListener('keydown', function(event) {
-  
+  o
   
   alert('Bravo')
 
