@@ -16,5 +16,5 @@ const main = document.body('main')
  
 main.addEventListener('keydown', function(event) {
   alert('Bravo')
-init() {
+
 
